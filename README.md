@@ -13,6 +13,8 @@ this repo is just for beter sorting
 [mech-ns]:https://github.com/airsoftak25/NeoSumec-MiniSumo-MECH
 [hw-ns]:https://github.com/airsoftak25/NeoSumec-MiniSumo-HW
 # Test
-| Projekt | Repo |
-|-------|------|
-| Software | [Otevřít](https://github.com/kubikaugustyn/NeoSumec-MiniSumo-FW) |
+| Part | Repo | Description |
+|-------|------|------| 
+| Software | [Otevřít](https://github.com/kubikaugustyn/NeoSumec-MiniSumo-FW) | contains our code for Project |
+| Hardware | [Otevřít](https://github.com/airsoftak25/NeoSumec-MiniSumo-HW) | contains our code for Project |
+| Mechanical | [Otevřít](https://github.com/airsoftak25/NeoSumec-MiniSumo-MECH) | contains our code for Project |
