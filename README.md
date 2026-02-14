@@ -1,8 +1,8 @@
 # RoboCrew
 
 # Description
-this repo contains link to all other repo of ours projects 
-this repo is just for beter sorting:)
+This repo contains link to all other repo of ours projects  
+This repo is just for beter sorting:)
 
 # NeoSumec
 An autonomous robot that competes in Mini-Sumo competitions, made by a team of students from SPS Prosek.
