@@ -14,8 +14,10 @@ An autonomous robot that competes in Mini-Sumo competitions, made by a team of s
 ## Contributors
 Peoples that work on the some part of our project **NeoSumec**
 | Name | on what part they work|
+|:--:|:--|
 | Vadim Sobčuk (airsoftak25)| mainly on HW and Mech part|
 | Jakub Augustýn | Head of coding |
+
 # LF-Neo
 An autonomous robot designed to complete the track in the shortest possible time.
 | Part | Repo link| Description |
