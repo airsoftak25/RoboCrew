@@ -19,9 +19,18 @@ Peoples that work on the some part of our project **NeoSumec**
 | Jakub Augustýn | Head of coding |
 
 # LF-Neo
-An autonomous robot designed to complete the track in the shortest possible time.
+An autonomous robot designed to complete the track in the shortest possible time. Made by a team of students from **SPŠ-Prosek**.
 | Part | Repo link| Description |
 |:---:|:---:|:---|
 | Software | [Open](Doesnt-exist-yet) | Contains our code for project |
 | Hardware | [Open](Doesnt-exist-yet) | Contains our elektro stuff for project |
 | Mechanical | [Open](Doesnt-exist-yet) | Contains our mechanical part of project |
+## Contributors
+Peoples that work on the some part of our project **NeoSumec**
+| Name | on what part they work|
+|:--:|:--|
+| Vadim Sobčuk | Who knows |
+# Other project
+## LF-Pendolino-MK1
+an autonomus robot desighnrd to complete the track in the shortest possible time. Maded by Luboš Stránský
+* [**Repo link**](https://github.com/lubosstransky2008/LF-Pendolino_MK1) 
