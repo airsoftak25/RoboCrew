@@ -41,5 +41,5 @@ Peoples that work on the some part of our project **NeoSumec**
 # Other project
 
 ## LF-Pendolino-MK1
-An autonomus robot desighnrd to complete the track in the shortest possible time. Maded by **Luboš Stránský**
+An autonomus robot designed to complete the track in the shortest possible time. Maded by [**Luboš Stránský**](https://github.com/lubosstransky2008)
 * [**Repo link**](https://github.com/lubosstransky2008/LF-Pendolino_MK1) *(this is his first solo project and we are proud of him)*
