@@ -1,1 +1,107 @@
-/RoboClash/LF-časomírá/HW/.history
+# =========================
+# Autodesk Inventor
+# =========================
+
+# Temporary / log files
+*.ipj.old
+*.idv
+*.log
+*.err
+*.tmp
+*.temp
+~$*
+
+# Backup files
+OldVersions/
+*.bak
+
+# Design data cache
+Design Data/
+
+# Content Center cache
+Content Center Files/
+
+# Simulation / analysis
+*.sim
+*.fem
+
+# Render / export outputs
+*.avi
+*.wmv
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# User-specific settings
+*.xml
+*.ini
+
+
+# =========================
+# KiCad
+# =========================
+
+# Temporary / backup files
+*.000
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*-save.kicad_pcb
+*-save.sch
+
+# Autosave
+*_autosave-*.kicad_sch
+*_autosave-*.kicad_pcb
+
+# Lock files
+*.lck
+
+# ❌ Gerbery NEignorujeme (budou se commitovat)
+
+# 3D exporty (většinou generované)
+*.step
+*.stp
+*.wrl
+
+# Cache / project-local data
+.kicad_prl
+.kicad_pro-bak
+fp-info-cache
+*.cache
+__pycache__/
+
+# Library tables (většinou lokální nastavení)
+.sym-lib-table
+.fp-lib-table
+
+
+# =========================
+# Common / build / temp
+# =========================
+
+/tmp/
+/out/
+/build/
+
+
+# =========================
+# OS files
+# =========================
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+
+# =========================
+# IDE / editors
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.suo
