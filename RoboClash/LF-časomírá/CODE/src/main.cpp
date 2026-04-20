@@ -5,7 +5,7 @@
 #define DEBUG        0
 #define DEBUG_MSPF   1
 #define DISPLAY_TYPE 1  // 0 - soft, 1 - real.
-#define GATE_RETRIGGER_BLOCK_TIME 5000
+#define GATE_RETRIGGER_BLOCK_TIME 2500
 
 #define PIN_GATE      2
 #define PIN_BTN_ARM   5
