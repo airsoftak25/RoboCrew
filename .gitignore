@@ -29,7 +29,6 @@ Content Center Files/
 *.avi
 *.wmv
 *.mp4
-*.png
 *.jpg
 *.jpeg
 *.bmp
@@ -57,8 +56,6 @@ Content Center Files/
 
 # Lock files
 *.lck
-
-# ❌ Gerbery NEignorujeme (budou se commitovat)
 
 # 3D exporty (většinou generované)
 # *.step
