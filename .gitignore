@@ -29,7 +29,6 @@ Content Center Files/
 *.avi
 *.wmv
 *.mp4
-*.png
 *.jpg
 *.jpeg
 *.bmp
@@ -58,12 +57,10 @@ Content Center Files/
 # Lock files
 *.lck
 
-# ❌ Gerbery NEignorujeme (budou se commitovat)
-
 # 3D exporty (většinou generované)
-*.step
-*.stp
-*.wrl
+# *.step
+# *.stp
+# *.wrl
 
 # Cache / project-local data
 .kicad_prl
@@ -75,7 +72,7 @@ __pycache__/
 # Library tables (většinou lokální nastavení)
 .sym-lib-table
 .fp-lib-table
-
+.history
 
 # =========================
 # Common / build / temp
