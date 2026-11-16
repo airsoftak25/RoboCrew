@@ -33,7 +33,7 @@ An autonomous robot designed to complete the track in the shortest possible time
 | Mechanical | [Open](Doesnt-exist-yet) | Contains our mechanical part of project |
 
 ## Contributors
-Peoples that work on the some part of our project **NeoSumec**
+Peoples that work on the some part of our project **LF-Neo**
 | Name | On what part they work |
 |:-:|:-|
 | Vadim Sobčuk | Who knows |
